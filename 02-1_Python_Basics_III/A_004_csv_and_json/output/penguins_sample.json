@@ -1,0 +1,30 @@
+{
+  "record_count": 5,
+  "records": [
+    {
+      "species": "Adelie",
+      "island": "Torgersen",
+      "body_mass_g": "3750"
+    },
+    {
+      "species": "Adelie",
+      "island": "Torgersen",
+      "body_mass_g": "3800"
+    },
+    {
+      "species": "Adelie",
+      "island": "Torgersen",
+      "body_mass_g": "3250"
+    },
+    {
+      "species": "Adelie",
+      "island": "Torgersen",
+      "body_mass_g": "NA"
+    },
+    {
+      "species": "Adelie",
+      "island": "Torgersen",
+      "body_mass_g": "3450"
+    }
+  ]
+}

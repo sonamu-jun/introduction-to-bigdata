@@ -1,0 +1,71 @@
+{
+  "source": "palmerpenguins",
+  "license": "CC0-1.0",
+  "record_count": 8,
+  "records": [
+    {
+      "species": "Adelie",
+      "island": "Torgersen",
+      "bill_length_mm": "39.1",
+      "flipper_length_mm": "181",
+      "body_mass_g": "3750",
+      "sex": "male"
+    },
+    {
+      "species": "Adelie",
+      "island": "Torgersen",
+      "bill_length_mm": "39.5",
+      "flipper_length_mm": "186",
+      "body_mass_g": "3800",
+      "sex": "female"
+    },
+    {
+      "species": "Adelie",
+      "island": "Torgersen",
+      "bill_length_mm": "40.3",
+      "flipper_length_mm": "195",
+      "body_mass_g": "3250",
+      "sex": "female"
+    },
+    {
+      "species": "Adelie",
+      "island": "Torgersen",
+      "bill_length_mm": "36.7",
+      "flipper_length_mm": "193",
+      "body_mass_g": "3450",
+      "sex": "female"
+    },
+    {
+      "species": "Adelie",
+      "island": "Torgersen",
+      "bill_length_mm": "39.3",
+      "flipper_length_mm": "190",
+      "body_mass_g": "3650",
+      "sex": "male"
+    },
+    {
+      "species": "Adelie",
+      "island": "Torgersen",
+      "bill_length_mm": "38.9",
+      "flipper_length_mm": "181",
+      "body_mass_g": "3625",
+      "sex": "female"
+    },
+    {
+      "species": "Adelie",
+      "island": "Torgersen",
+      "bill_length_mm": "39.2",
+      "flipper_length_mm": "195",
+      "body_mass_g": "4675",
+      "sex": "male"
+    },
+    {
+      "species": "Adelie",
+      "island": "Torgersen",
+      "bill_length_mm": "41.1",
+      "flipper_length_mm": "182",
+      "body_mass_g": "3200",
+      "sex": "female"
+    }
+  ]
+}

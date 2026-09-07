@@ -6,6 +6,7 @@ matplotlib==3.10.7
 nbclient==0.10.2
 nbformat==5.10.4
 numpy==2.3.3
+opencv-python-headless==4.14.0.94
 pandas==3.0.1
 Pillow==11.3.0
 scipy==1.18.0

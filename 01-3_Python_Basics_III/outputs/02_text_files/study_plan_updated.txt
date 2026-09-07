@@ -1,0 +1,5 @@
+Monday: Python
+Tuesday: Statistics
+Wednesday: Data Visualization
+Thursday: Review
+Friday: File I/O practice

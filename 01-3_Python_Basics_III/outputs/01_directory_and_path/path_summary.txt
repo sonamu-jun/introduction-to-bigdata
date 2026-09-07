@@ -1,2 +1,1 @@
-Input: study_plan.txt
-Status: ready
+Input file: study_plan.txt

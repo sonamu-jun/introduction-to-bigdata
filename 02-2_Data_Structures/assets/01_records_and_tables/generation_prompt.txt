@@ -1,0 +1,11 @@
+Use case: scientific-educational.
+Asset type: compact raster illustration embedded in an English university lecture notebook at 480 CSS pixels wide.
+Style: polished textbook diagram with clean flat shapes, restrained teal and navy, amber only for one meaningful highlight, white background, no decorative scenery. Landscape 1536 x 1024. Use very large, crisp English labels and few words; all text must remain legible when scaled to 480 pixels wide.
+Constraints: exact labels, exact data, no invented records, no logos, mascots, watermark, code panels, prose instructions, or "Use Cases" headings. Arrows connect only the specified endpoints.
+Title: "One row = one student-day".
+Draw one clear table with exactly FIVE columns titled "student_id", "day", "minutes", "tasks", "score" and exactly THREE data rows:
+S01 | Mon | 30 | 2 | 70
+S02 | Mon | 45 | 3 | 80
+S01 | Tue | 40 | 4 | 75
+Keep all column widths readable. Highlight the entire THIRD data row with pale amber and label that row "One observation" using one short callout outside the table. Mark the "minutes" column with a teal outline.
+Below the table, show a compact horizontal list labeled "minutes" with exactly [30, 45, 40]. Connect the marked minutes column to this list with one simple arrow. Add only the footer "3 observations, 2 students". Do not show any other table or record. Preserve repeated student S01 on different days; it is intentional. Avoid tiny annotation text.

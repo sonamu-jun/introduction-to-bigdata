@@ -1,0 +1,10 @@
+Use case: scientific-educational.
+Asset type: compact raster illustration embedded in an English university lecture notebook at 480 CSS pixels wide.
+Style: polished textbook diagram with clean flat shapes, restrained teal and navy, amber only for one meaningful highlight, white background, no decorative scenery. Landscape 1536 x 1024. Use very large, crisp English labels and few words; all text must remain legible when scaled to 480 pixels wide.
+Constraints: exact labels, exact data, no invented records, no logos, mascots, watermark, code panels, prose instructions, or "Use Cases" headings. Arrows connect only the specified endpoints.
+Title: "One student, multiple observations".
+Show a key-based one-to-many relationship with student cards on the LEFT and grouped observation cards on the RIGHT.
+Left heading "Students". Three large cards from top to bottom: "S01  Mina", "S02  Joon", "S03  Sara".
+Right heading "Student-day observations". Opposite S01, one group with two clearly separate rows "S01  Mon  70" and "S01  Tue  75"; its column headings are "ID", "Day", "Score". Opposite S02, one group with one row "S02  Mon  80" under the same headings. Opposite S03, plain gray text "No observations" with NO observation card and NO relationship arrow.
+A single connector leaves the S01 student card and branches to its two S01 rows. A single connector leaves the S02 student card and reaches only its S02 row. Do not cross connectors and do not connect different student IDs. Emphasize the S01 one-to-many branch with amber; other connection teal.
+Footer: "Match by student_id". Do not add artificial array indices, a hash table, dates other than Mon/Tue, names other than Mina/Joon/Sara, or records for S03.

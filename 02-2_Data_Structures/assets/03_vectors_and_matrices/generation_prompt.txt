@@ -1,0 +1,11 @@
+Use case: scientific-educational.
+Asset type: compact raster illustration embedded in an English university lecture notebook at 480 CSS pixels wide.
+Style: polished textbook diagram with clean flat shapes, restrained teal and navy, amber only for one meaningful highlight, white background, no decorative scenery. Landscape 1536 x 1024. Use very large, crisp English labels and few words; all text must remain legible when scaled to 480 pixels wide.
+Constraints: exact labels, exact data, no invented records, no logos, mascots, watermark, code panels, prose instructions, or "Use Cases" headings. Arrows connect only the specified endpoints.
+Title: "3 observations, 2 features".
+Draw an exact 3-row numeric feature matrix X on the left-center and a vertically displayed 3-value target vector y on the right, aligned row for row. Large top labels "X: features" and "y: score".
+Matrix X column headings exactly "minutes" and "tasks". Numeric rows exactly [30, 2], [45, 3], [40, 4]. No extra column inside X.
+Outside and to the LEFT of matrix X, show row identity labels "S01 Mon", "S02 Mon", "S01 Tue", one per matching row. These are metadata, not numeric matrix columns.
+Target y has exactly the values 70, 80, 75 from top to bottom. Draw one fine horizontal connector from each matrix row to ONLY its corresponding target value. Highlight the second complete row, including label "S02 Mon", matrix [45, 3], and target 80 with the same pale amber.
+Under X write "shape (3, 2)". Under y write "shape (3,)". Although y is displayed vertically, it is a one-dimensional vector: do NOT label it a 3-by-1 matrix.
+Footer: "Same row, same observation". No sorting, other numeric data, sums, multiplication, neural networks, or training algorithm.

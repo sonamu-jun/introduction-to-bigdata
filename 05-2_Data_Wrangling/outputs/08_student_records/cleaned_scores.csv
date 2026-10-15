@@ -1,0 +1,8 @@
+source_order,raw_name,raw_subject,raw_score,name,subject,status,score,department
+3,Hana , English , 85 ,Hana,English,valid,85,Languages
+7,Hana, mathematics, None ,Hana,Mathematics,missing,,STEM
+2,Hojun, English, NA ,Hojun,English,missing,,Languages
+6, Hojun , Mathematics, 105 ,Hojun,Mathematics,range_error,,STEM
+5,Jiyoung, Mathematics, 98 ,Jiyoung,Mathematics,valid,98,STEM
+8,Kihoon , English , 86 ,Kihoon,English,valid,86,Languages
+4,Kihoon, Mathematics, -3 ,Kihoon,Mathematics,range_error,,STEM

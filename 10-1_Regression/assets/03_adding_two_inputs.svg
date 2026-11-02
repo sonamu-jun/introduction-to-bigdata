@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400" viewBox="0 0 800 400" role="img" aria-labelledby="desc">
+<desc id="desc">Actual fitted movie model predicts opening-day ticket sales from online buzz and ticket price.</desc>
+<style>text {font-family: sans-serif;}</style>
+<rect width="800" height="400" fill="white"/>
+<rect x="30" y="40" width="275" height="115" rx="14" fill="#eef4f7"/>
+<text x="167.50" y="82.00" font-size="20" fill="#19354c" text-anchor="middle">Online buzz</text>
+<text x="167.50" y="122.00" font-size="20" fill="#3268a8" text-anchor="middle">12 thousand mentions</text>
+<line x1="305.00" y1="98.00" x2="380.00" y2="177.00" stroke="#078880" stroke-width="3"/>
+<rect x="30" y="200" width="275" height="115" rx="14" fill="#eef4f7"/>
+<text x="167.50" y="242.00" font-size="20" fill="#19354c" text-anchor="middle">Ticket price</text>
+<text x="167.50" y="282.00" font-size="20" fill="#3268a8" text-anchor="middle">12 thousand won</text>
+<line x1="305.00" y1="258.00" x2="380.00" y2="177.00" stroke="#078880" stroke-width="3"/>
+<rect x="380" y="117" width="155" height="120" rx="14" fill="#e5f3f0"/>
+<text x="457.00" y="162.00" font-size="20" fill="#078880" text-anchor="middle">Fitted</text>
+<text x="457.00" y="195.00" font-size="20" fill="#078880" text-anchor="middle">model</text>
+<line x1="535.00" y1="177.00" x2="585.00" y2="177.00" stroke="#078880" stroke-width="3"/>
+<text x="682.00" y="145.00" font-size="20" fill="#19354c" text-anchor="middle">Predicted audience</text>
+<text x="682.00" y="190.00" font-size="20" fill="#078880" text-anchor="middle">45.7 thousand</text>
+<text x="682.00" y="221.00" font-size="20" fill="#078880" text-anchor="middle">tickets</text>
+<text x="400.00" y="365.00" font-size="20" fill="#19354c" text-anchor="middle">Both inputs contribute to one prediction.</text>
+</svg>

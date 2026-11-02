@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="440" viewBox="0 0 800 440" role="img" aria-labelledby="desc">
+<desc id="desc">Actual synthetic delivery records and their OLS prediction for a new six-kilometre route.</desc>
+<style>text {font-family: sans-serif;}</style>
+<rect width="800" height="440" fill="white"/>
+<text x="90.00" y="30.00" font-size="20" fill="#19354c" text-anchor="start">Delivery time (min)</text>
+<line x1="90.00" y1="70.00" x2="90.00" y2="350.00" stroke="#19354c" stroke-width="2"/>
+<line x1="90.00" y1="350.00" x2="750.00" y2="350.00" stroke="#19354c" stroke-width="2"/>
+<line x1="90.00" y1="350.00" x2="90.00" y2="356.00" stroke="#19354c" stroke-width="2"/>
+<text x="90.00" y="382.00" font-size="18" fill="#19354c" text-anchor="middle">0</text>
+<line x1="222.00" y1="350.00" x2="222.00" y2="356.00" stroke="#19354c" stroke-width="2"/>
+<text x="222.00" y="382.00" font-size="18" fill="#19354c" text-anchor="middle">2</text>
+<line x1="354.00" y1="350.00" x2="354.00" y2="356.00" stroke="#19354c" stroke-width="2"/>
+<text x="354.00" y="382.00" font-size="18" fill="#19354c" text-anchor="middle">4</text>
+<line x1="486.00" y1="350.00" x2="486.00" y2="356.00" stroke="#19354c" stroke-width="2"/>
+<text x="486.00" y="382.00" font-size="18" fill="#19354c" text-anchor="middle">6</text>
+<line x1="618.00" y1="350.00" x2="618.00" y2="356.00" stroke="#19354c" stroke-width="2"/>
+<text x="618.00" y="382.00" font-size="18" fill="#19354c" text-anchor="middle">8</text>
+<line x1="750.00" y1="350.00" x2="750.00" y2="356.00" stroke="#19354c" stroke-width="2"/>
+<text x="750.00" y="382.00" font-size="18" fill="#19354c" text-anchor="middle">10</text>
+<line x1="90.00" y1="350.00" x2="750.00" y2="350.00" stroke="#e7edf0" stroke-width="1"/>
+<text x="78.00" y="356.00" font-size="18" fill="#19354c" text-anchor="end">0</text>
+<line x1="90.00" y1="263.85" x2="750.00" y2="263.85" stroke="#e7edf0" stroke-width="1"/>
+<text x="78.00" y="269.85" font-size="18" fill="#19354c" text-anchor="end">20</text>
+<line x1="90.00" y1="177.69" x2="750.00" y2="177.69" stroke="#e7edf0" stroke-width="1"/>
+<text x="78.00" y="183.69" font-size="18" fill="#19354c" text-anchor="end">40</text>
+<line x1="90.00" y1="91.54" x2="750.00" y2="91.54" stroke="#e7edf0" stroke-width="1"/>
+<text x="78.00" y="97.54" font-size="18" fill="#19354c" text-anchor="end">60</text>
+<text x="420.00" y="414.00" font-size="20" fill="#19354c" text-anchor="middle">Route length (km)</text>
+<path d="M156.00,277.95 L159.32,276.93 L162.64,275.92 L165.96,274.90 L169.28,273.89 L172.60,272.87 L175.92,271.86 L179.25,270.84 L182.57,269.82 L185.89,268.81 L189.21,267.79 L192.53,266.78 L195.85,265.76 L199.17,264.74 L202.49,263.73 L205.81,262.71 L209.13,261.70 L212.45,260.68 L215.77,259.66 L219.09,258.65 L222.42,257.63 L225.74,256.62 L229.06,255.60 L232.38,254.59 L235.70,253.57 L239.02,252.55 L242.34,251.54 L245.66,250.52 L248.98,249.51 L252.30,248.49 L255.62,247.47 L258.94,246.46 L262.26,245.44 L265.58,244.43 L268.91,243.41 L272.23,242.39 L275.55,241.38 L278.87,240.36 L282.19,239.35 L285.51,238.33 L288.83,237.32 L292.15,236.30 L295.47,235.28 L298.79,234.27 L302.11,233.25 L305.43,232.24 L308.75,231.22 L312.08,230.20 L315.40,229.19 L318.72,228.17 L322.04,227.16 L325.36,226.14 L328.68,225.12 L332.00,224.11 L335.32,223.09 L338.64,222.08 L341.96,221.06 L345.28,220.05 L348.60,219.03 L351.92,218.01 L355.25,217.00 L358.57,215.98 L361.89,214.97 L365.21,213.95 L368.53,212.93 L371.85,211.92 L375.17,210.90 L378.49,209.89 L381.81,208.87 L385.13,207.85 L388.45,206.84 L391.77,205.82 L395.09,204.81 L398.42,203.79 L401.74,202.78 L405.06,201.76 L408.38,200.74 L411.70,199.73 L415.02,198.71 L418.34,197.70 L421.66,196.68 L424.98,195.66 L428.30,194.65 L431.62,193.63 L434.94,192.62 L438.26,191.60 L441.58,190.58 L444.91,189.57 L448.23,188.55 L451.55,187.54 L454.87,186.52 L458.19,185.51 L461.51,184.49 L464.83,183.47 L468.15,182.46 L471.47,181.44 L474.79,180.43 L478.11,179.41 L481.43,178.39 L484.75,177.38 L488.08,176.36 L491.40,175.35 L494.72,174.33 L498.04,173.31 L501.36,172.30 L504.68,171.28 L508.00,170.27 L511.32,169.25 L514.64,168.24 L517.96,167.22 L521.28,166.20 L524.60,165.19 L527.92,164.17 L531.25,163.16 L534.57,162.14 L537.89,161.12 L541.21,160.11 L544.53,159.09 L547.85,158.08 L551.17,157.06 L554.49,156.04 L557.81,155.03 L561.13,154.01 L564.45,153.00 L567.77,151.98 L571.09,150.97 L574.42,149.95 L577.74,148.93 L581.06,147.92 L584.38,146.90 L587.70,145.89 L591.02,144.87 L594.34,143.85 L597.66,142.84 L600.98,141.82 L604.30,140.81 L607.62,139.79 L610.94,138.77 L614.26,137.76 L617.58,136.74 L620.91,135.73 L624.23,134.71 L627.55,133.70 L630.87,132.68 L634.19,131.66 L637.51,130.65 L640.83,129.63 L644.15,128.62 L647.47,127.60 L650.79,126.58 L654.11,125.57 L657.43,124.55 L660.75,123.54 L664.08,122.52 L667.40,121.50 L670.72,120.49 L674.04,119.47 L677.36,118.46 L680.68,117.44 L684.00,116.43" fill="none" stroke="#078880" stroke-width="3"/>
+<circle cx="156.00" cy="286.05" r="5" fill="#3268a8" stroke="#3268a8" stroke-width="2.2"/>
+<circle cx="186.80" cy="269.10" r="5" fill="#3268a8" stroke="#3268a8" stroke-width="2.2"/>
+<circle cx="217.60" cy="245.89" r="5" fill="#3268a8" stroke="#3268a8" stroke-width="2.2"/>
+<circle cx="248.40" cy="264.51" r="5" fill="#3268a8" stroke="#3268a8" stroke-width="2.2"/>
+<circle cx="279.20" cy="256.79" r="5" fill="#3268a8" stroke="#3268a8" stroke-width="2.2"/>
+<circle cx="310.00" cy="218.38" r="5" fill="#3268a8" stroke="#3268a8" stroke-width="2.2"/>
+<circle cx="340.80" cy="208.96" r="5" fill="#3268a8" stroke="#3268a8" stroke-width="2.2"/>
+<circle cx="371.60" cy="193.64" r="5" fill="#3268a8" stroke="#3268a8" stroke-width="2.2"/>
+<circle cx="402.40" cy="210.42" r="5" fill="#3268a8" stroke="#3268a8" stroke-width="2.2"/>
+<circle cx="433.20" cy="187.84" r="5" fill="#3268a8" stroke="#3268a8" stroke-width="2.2"/>
+<circle cx="464.00" cy="185.13" r="5" fill="#3268a8" stroke="#3268a8" stroke-width="2.2"/>
+<circle cx="494.80" cy="180.94" r="5" fill="#3268a8" stroke="#3268a8" stroke-width="2.2"/>
+<circle cx="525.60" cy="165.48" r="5" fill="#3268a8" stroke="#3268a8" stroke-width="2.2"/>
+<circle cx="556.40" cy="164.02" r="5" fill="#3268a8" stroke="#3268a8" stroke-width="2.2"/>
+<circle cx="587.20" cy="136.65" r="5" fill="#3268a8" stroke="#3268a8" stroke-width="2.2"/>
+<circle cx="618.00" cy="142.73" r="5" fill="#3268a8" stroke="#3268a8" stroke-width="2.2"/>
+<circle cx="486.00" cy="177.00" r="8" fill="#d87522" stroke="#d87522" stroke-width="2.2"/>
+<text x="506.00" y="100.00" font-size="21" fill="#d87522" text-anchor="start">6 km → about 40 min</text>
+<text x="108.00" y="88.00" font-size="19" fill="#3268a8" text-anchor="start">Filled dots: recorded arrivals</text>
+</svg>

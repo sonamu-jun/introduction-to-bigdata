@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="450" viewBox="0 0 640 450">
+<style>text{font-family:sans-serif;font-size:20px;fill:#17394b}</style>
+<defs><marker id="arrow" markerWidth="7" markerHeight="7" refX="6" refY="3" orient="auto"><path d="M0 0L6 3L0 6" fill="none" stroke="#536675"/></marker></defs>
+<rect width="640" height="450" fill="white"/>
+<line x1="157.0" y1="298" x2="76" y2="350" stroke="#536675" stroke-width="1.8" stroke-dasharray="" marker-end="url(#arrow)"/>
+<text x="102.5" y="323.0" text-anchor="middle" style="font-size:20px;fill:#536675">예</text>
+<line x1="157.0" y1="298" x2="238" y2="350" stroke="#536675" stroke-width="1.8" stroke-dasharray="" marker-end="url(#arrow)"/>
+<text x="211.5" y="323.0" text-anchor="middle" style="font-size:20px;fill:#536675">아니오</text>
+<line x1="278.5" y1="188" x2="157.0" y2="240" stroke="#536675" stroke-width="1.8" stroke-dasharray="" marker-end="url(#arrow)"/>
+<text x="203.75" y="213.0" text-anchor="middle" style="font-size:20px;fill:#536675">예</text>
+<line x1="278.5" y1="188" x2="400" y2="240" stroke="#536675" stroke-width="1.8" stroke-dasharray="" marker-end="url(#arrow)"/>
+<text x="353.25" y="213.0" text-anchor="middle" style="font-size:20px;fill:#536675">아니오</text>
+<line x1="420.25" y1="78" x2="278.5" y2="130" stroke="#536675" stroke-width="1.8" stroke-dasharray="" marker-end="url(#arrow)"/>
+<text x="335.375" y="103.0" text-anchor="middle" style="font-size:20px;fill:#536675">예</text>
+<line x1="420.25" y1="78" x2="562" y2="130" stroke="#536675" stroke-width="1.8" stroke-dasharray="" marker-end="url(#arrow)"/>
+<text x="505.125" y="103.0" text-anchor="middle" style="font-size:20px;fill:#536675">아니오</text>
+<rect x="8" y="349" width="136" height="62" rx="8" fill="#edf5f7"/>
+<text x="76" y="376" text-anchor="middle" style="font-size:20px;fill:#3268a8">사과</text>
+<text x="76" y="400" text-anchor="middle" style="font-size:20px;fill:#536675">n = 25</text>
+<rect x="170" y="349" width="136" height="62" rx="8" fill="#edf5f7"/>
+<text x="238" y="376" text-anchor="middle" style="font-size:20px;fill:#d87522">오렌지</text>
+<text x="238" y="400" text-anchor="middle" style="font-size:20px;fill:#536675">n = 35</text>
+<rect x="33.0" y="239" width="248" height="59" rx="8" fill="#edf5f7"/>
+<text x="157.0" y="274" text-anchor="middle" style="font-size:20px;fill:#17394b">Hue ≤ 21.75°?</text>
+<rect x="332" y="239" width="136" height="62" rx="8" fill="#edf5f7"/>
+<text x="400" y="266" text-anchor="middle" style="font-size:20px;fill:#3268a8">사과</text>
+<text x="400" y="290" text-anchor="middle" style="font-size:20px;fill:#536675">n = 23</text>
+<rect x="154.5" y="129" width="248" height="59" rx="8" fill="#edf5f7"/>
+<text x="278.5" y="164" text-anchor="middle" style="font-size:20px;fill:#17394b">Hue ≤ 76.03°?</text>
+<rect x="494" y="129" width="136" height="62" rx="8" fill="#edf5f7"/>
+<text x="562" y="156" text-anchor="middle" style="font-size:20px;fill:#8251ac">바나나</text>
+<text x="562" y="180" text-anchor="middle" style="font-size:20px;fill:#536675">n = 43</text>
+<rect x="296.25" y="19" width="248" height="59" rx="8" fill="#edf5f7"/>
+<text x="420.25" y="54" text-anchor="middle" style="font-size:20px;fill:#17394b">Length / width ≤ 1.66?</text>
+<text x="320" y="438" text-anchor="middle" style="font-size:20px;fill:#536675">3회 분할 · n: 해당 노드의 학습 표본 수</text>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="252" viewBox="0 0 640 252">
+<style>text{font-family:sans-serif;font-size:20px;fill:#17394b}</style>
+<defs><marker id="arrow" markerWidth="7" markerHeight="7" refX="6" refY="3" orient="auto"><path d="M0 0L6 3L0 6" fill="none" stroke="#536675"/></marker></defs>
+<rect width="640" height="252" fill="white"/>
+<rect x="10" y="12" width="174" height="184" rx="8" fill="#edf5f7"/>
+<g transform="translate(97 64) scale(0.9)"><path d="M-25 -27 Q-7 17 33 1 Q8 50 -24 22 Q-39 8 -25 -27" fill="#f2cf48" stroke="#cea42b" stroke-width="2"/><path d="M-27 -29L-25 -21M32 1L37 -2" stroke="#745638" stroke-width="5"/></g>
+<text x="30" y="127" text-anchor="start" style="font-size:20px;fill:#17394b">색상: 35°</text>
+<text x="30" y="161" text-anchor="start" style="font-size:20px;fill:#17394b">길이/너비:</text>
+<text x="30" y="184" text-anchor="start" style="font-size:20px;fill:#17394b">1.8</text>
+<line x1="190" y1="105" x2="219" y2="105" stroke="#536675" stroke-width="1.8" stroke-dasharray="" marker-end="url(#arrow)"/>
+<rect x="231" y="12" width="181" height="184" rx="8" fill="#edf5f7"/>
+<text x="246" y="44" text-anchor="start" style="font-size:20px;fill:#17394b">학습한 모델</text>
+<text x="246" y="87" text-anchor="start" style="font-size:20px;fill:#3268a8">사과: 1.9%</text>
+<text x="246" y="124" text-anchor="start" style="font-size:20px;fill:#d87522">오렌지: 22.4%</text>
+<text x="246" y="161" text-anchor="start" style="font-size:20px;fill:#8251ac">바나나: 75.7%</text>
+<line x1="418" y1="105" x2="448" y2="105" stroke="#536675" stroke-width="1.8" stroke-dasharray="" marker-end="url(#arrow)"/>
+<rect x="460" y="12" width="168" height="184" rx="8" fill="#e2f2ee"/>
+<text x="476" y="46" text-anchor="start" style="font-size:20px;fill:#17394b">예측 클래스</text>
+<g transform="translate(545 97) scale(0.75)"><path d="M-25 -27 Q-7 17 33 1 Q8 50 -24 22 Q-39 8 -25 -27" fill="#f2cf48" stroke="#cea42b" stroke-width="2"/><path d="M-27 -29L-25 -21M32 1L37 -2" stroke="#745638" stroke-width="5"/></g>
+<text x="544" y="165" text-anchor="middle" style="font-size:20px;fill:#078880">바나나</text>
+<text x="12" y="235" text-anchor="start" style="font-size:20px;fill:#17394b">이 예제의 입력은 측정값, 예측 결과는 클래스이다.</text>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="375" viewBox="0 0 640 375">
+<style>text{font-family:sans-serif;font-size:20px;fill:#17394b}</style>
+<defs><marker id="arrow" markerWidth="7" markerHeight="7" refX="6" refY="3" orient="auto"><path d="M0 0L6 3L0 6" fill="none" stroke="#536675" /></marker></defs>
+<rect width="640" height="375" fill="white" />
+<text x="390" y="27" text-anchor="middle" style="font-size:20px;fill:#17394b">예측 행동</text>
+<text x="275" y="60" text-anchor="middle" style="font-size:20px;fill:#17394b">보관</text>
+<text x="504" y="60" text-anchor="middle" style="font-size:20px;fill:#17394b">스팸으로 차단</text>
+<text transform="translate(26 219) rotate(-90)" text-anchor="middle">실제 클래스</text>
+<text x="149" y="153" text-anchor="end" style="font-size:20px;fill:#17394b">정상</text>
+<text x="149" y="282" text-anchor="end" style="font-size:20px;fill:#17394b">스팸</text>
+<rect x="163" y="77" width="222" height="122" rx="8" fill="#e6edf5" />
+<text x="274" y="124" text-anchor="middle" style="font-size:20px;fill:#3268a8">72</text>
+<text x="274" y="165" text-anchor="middle" style="font-size:20px;fill:#3268a8">TN · 보관</text>
+<rect x="397" y="77" width="222" height="122" rx="8" fill="#fff0df" />
+<text x="508" y="124" text-anchor="middle" style="font-size:20px;fill:#d87522">8</text>
+<text x="508" y="165" text-anchor="middle" style="font-size:20px;fill:#d87522">FP · 오탐</text>
+<rect x="163" y="209" width="222" height="122" rx="8" fill="#eee6f5" />
+<text x="274" y="256" text-anchor="middle" style="font-size:20px;fill:#8251ac">6</text>
+<text x="274" y="297" text-anchor="middle" style="font-size:20px;fill:#8251ac">FN · 놓침</text>
+<rect x="397" y="209" width="222" height="122" rx="8" fill="#e2f2ee" />
+<text x="508" y="256" text-anchor="middle" style="font-size:20px;fill:#078880">14</text>
+<text x="508" y="297" text-anchor="middle" style="font-size:20px;fill:#078880">TP · 탐지</text>
+<text x="320" y="366" text-anchor="middle" style="font-size:20px;fill:#536675">스팸 20개 + 정상 80개 · 직접 구성한 예측</text>
+</svg>
